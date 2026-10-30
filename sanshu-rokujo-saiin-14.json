@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujo-saiin-14",
  "yomi": "ろくじょうさいいんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "未詳",
+  "author": "主催 禖子内親王（六条斎院）",
+  "desc": "六条斎院禖子内親王の家の歌合の一つ。原本に年月日が無く、どの回にあたるかは推定にとどまる。「遠聞郭公」「草螢似露」の夏の二題を、左衛門・下野・宣旨・武蔵・中務ら女房が詠む。"
+ },
  "editions": [
   {
    "pid": "1128193",
